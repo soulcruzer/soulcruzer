@@ -8,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "soulcruzer.com": "https://soulcruzer.com",
     },
   }),
 }
@@ -21,8 +20,14 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
     Component.TagList(),
   ],
   left: [
