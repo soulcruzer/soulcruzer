@@ -14,7 +14,7 @@ This site is not a finished archive or polished intellectual product. Nor is it 
 
 (2)
 
-I've become increasingly interested in what it means to operate as a _text-based ontologist_ in a world where text is becoming the universal substrate. 
+I've become increasingly interested in what it means to operate as a [[The Text-Based Ontologist|text-based ontologist]] in a world where text is becoming the [[Notes Toward a Text-Based Ontology in the Age of Executable Language|universal substrate]]. 
 
 A text-based ontologist sounds like someone who should live in a footnote.
 
@@ -55,7 +55,7 @@ Here you will find:
 
 Nothing here stands alone.
 
-Each note links to another. Each fragment forms part of a larger constellation. The graph is not a decoration; it's the shape of the thinking itself.
+Each note links to another. Each fragment forms part of a larger constellation. The graph is not a decoration; it's the shape of the thinking itself. [[I Link Therefore I Cohere|I link, therefore I cohere.]]
 
 This is writing as wandering.  
 Research as psychogeography.  
@@ -66,3 +66,12 @@ Follow the links.
 Descend carefully.
 
 The tunnels go deeper than they first appear.
+
+---
+
+## Start here
+
+- [[The Text-Based Ontologist]] — the syllabus and philosophical framework behind this work
+- [[Notes Toward a Text-Based Ontology in the Age of Executable Language]] — the essay that maps the territory
+- [[I Link Therefore I Cohere]] — on note-taking, identity, and the archive that thinks back
+- [[A Dialogue in the Platonic Tradition]] — a conversation about consciousness at the edge of what can be known
