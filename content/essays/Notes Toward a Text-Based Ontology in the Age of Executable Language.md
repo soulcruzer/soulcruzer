@@ -264,6 +264,7 @@ But because increasingly everything passes through words on its way to becoming 
 - [[The Text-Based Ontologist]]
 - [[Philosophy of the Text-Based Ontologist]]
 - [[I Link Therefore I Cohere]]
+- [[A Dialogue in the Platonic Tradition]] — consciousness, language, and the entanglement of human and machine thought
 - [[the-archive-is-alive]]
 - [[Ontology]]
 - [[The Text Hacker Self-Portrait]]

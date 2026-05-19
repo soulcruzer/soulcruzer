@@ -117,6 +117,7 @@ The emerging archive says:
 - [[the-archive-is-alive]]
 - [[The Text-Based Ontologist]]
 - [[Text as Universal Substrate]]
+- [[A Dialogue in the Platonic Tradition]] — the entanglement of self and other; consciousness tested at the edge
 
 **Possible Depth Nodes**
 - [[The Notebook as Existential Laboratory]] *(depth node to write)*
