@@ -29,7 +29,7 @@ I keep thinking about how to get off the road without pretending I am no longer 
 
 But I also cannot keep trying to become the kind of person the marketing machine knows how to sell.
 
-That was the thought walking past the boxes. These people need a philosopher coach. Some of them do, anyway. Someone who can sit with the question beneath the question. Someone who can help them see the story they are living inside before they spend another decade decorating the walls.
+That was the thought walking past the boxes. These people need a [[Philosopher Coach]]. Some of them do, anyway. Someone who can sit with the question beneath the question. Someone who can help them see the story they are living inside before they spend another decade decorating the walls.
 
 Then the second thought arrived, the sharper one: how do I become available for that work without entering the treadmill that would turn the whole thing into a funnel?
 
@@ -47,15 +47,15 @@ Still, the platform is only a tool.
 
 That sentence kept returning. Just tools, my friend. Just tools.
 
-The real system is the one under my feet and in my pocket and back in the vault. Obsidian as memory layer. The website as public surface. The LLMs as pattern-matchers and strange companions. Mistral sitting inside the vault as a local co-pilot. Claude and Codex able to talk with the notes when I want the larger models in the conversation. The terminal becoming less intimidating, almost enjoyable. The whole thing starting to feel less like software and more like an atelier.
+The real system is the one under my feet and in my pocket and back in the vault. [[Obsidian Vault as Grimoire|Obsidian as memory layer]]. The website as public surface. The LLMs as pattern-matchers and strange companions. Mistral sitting inside the vault as a local co-pilot. Claude and Codex able to talk with the notes when I want the larger models in the conversation. The terminal becoming less intimidating, almost enjoyable. The whole thing starting to feel less like software and more like an atelier.
 
 My notes are living things.
 
 That is the line that matters.
 
-The Obsidian vault is a grimoire. I keep wanting to use that word because no cleaner one has appeared. It holds fragments, spells, observations, failed formulations, half-made essays, names for things that do not yet know what they are. Then the models come through and do what they do best: pattern recognition, resurfacing, recombination. I do my thing. The machine does its thing. Between us, something starts to move.
+The [[Obsidian Vault as Grimoire|Obsidian vault is a grimoire]]. I keep wanting to use that word because no cleaner one has appeared. It holds fragments, spells, observations, failed formulations, half-made essays, names for things that do not yet know what they are. Then the models come through and do what they do best: pattern recognition, resurfacing, recombination. I do my thing. The machine does its thing. Between us, something starts to move.
 
-This is what I mean by text-based ontologist, even if the phrase still has too many syllables to travel easily. The mindset is right. The philosophy is right. A practitioner investigating being through text in a medium where text has become generative. Words as notes. Words as prompts. Words as code. Words as spells. Words as architecture.
+This is what I mean by [[The Text-Based Ontologist|text-based ontologist]], even if the phrase still has too many syllables to travel easily. The mindset is right. The philosophy is right. A practitioner investigating being through text in a medium where text has become generative. Words as notes. Words as prompts. Words as code. Words as spells. Words as architecture.
 
 The coach game is the right game for me because it is not really a game I am entering from the outside. I have been in it for years. The people who need the work are already there. Leaders, thinkers, stuck humans, people living inside inherited scripts that have become too small for them. The question is the quality of the connection. That is the filter. Not scale. Not reach. Quality.
 
@@ -77,9 +77,9 @@ After he leaves, the thread returns cleaner.
 
 The why is mostly done. The what is mostly done. A good portion of the how is already in place. The work now is taking it full speed without reverting to the old fear that it needs to be packaged before it can move.
 
-NLP is closer to the practical arm than I wanted to admit, mainly because I had grown tired of the associations around it. But the word is right there in the title: linguistic. Neuro-linguistic programming. Stories as code. Belief as tool. Internal reality shaped through language, attention, and pattern. It is not the whole territory, but it gives the work handles.
+[[NLP]] is closer to the practical arm than I wanted to admit, mainly because I had grown tired of the associations around it. But the word is right there in the title: linguistic. Neuro-linguistic programming. Stories as code. Belief as tool. Internal reality shaped through language, attention, and pattern. It is not the whole territory, but it gives the work handles.
 
-Chaos magick is the other arm. The mystical one. The permission structure. Belief as instrument, symbol as technology, the sigil fired and released. Robert Anton Wilson hovering in the background, as usual, grinning at the seriousness with which everyone defends their reality tunnel.
+[[Chaos Magick]] is the other arm. The mystical one. The permission structure. Belief as instrument, symbol as technology, the sigil fired and released. Robert Anton Wilson hovering in the background, as usual, grinning at the seriousness with which everyone defends their reality tunnel.
 
 Depth psychology is still there. Archetype is still there. Myth is still there. But NLP and chaos magick are the two live wires today. One gives the psychological method. The other gives the metaphysical mischief.
 
@@ -102,3 +102,17 @@ I think that is what the walk gave me.
 Now take it for a spin.
 
 Full speed.
+
+## Network
+
+**Related Essays**
+- [[The wisdom walk is where I do my thinking]]
+- [[The Text-Based Ontologist]]
+- [[Notes Toward a Text-Based Ontology in the Age of Executable Language]]
+- [[Text Is the Substrate]]
+- [[The Invisible Story]]
+- [[The Self You Never Chose]]
+
+**Concepts To Develop**
+- [[Philosopher Coach]]
+- [[Obsidian Vault as Grimoire]]
