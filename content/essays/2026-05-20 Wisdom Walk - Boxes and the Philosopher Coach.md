@@ -29,7 +29,7 @@ I keep thinking about how to get off the road without pretending I am no longer 
 
 But I also cannot keep trying to become the kind of person the marketing machine knows how to sell.
 
-That was the thought walking past the boxes. These people need a philosopher coach. Some of them do, anyway. Someone who can sit with the question beneath the question. Someone who can help them see the story they are living inside before they spend another decade decorating the walls.
+That was the thought walking past the boxes. These people need a [[The Philosopher Coach|philosopher coach]]. Some of them do, anyway. Someone who can sit with the question beneath the question. Someone who can help them see the story they are living inside before they spend another decade decorating the walls.
 
 Then the second thought arrived, the sharper one: how do I become available for that work without entering the treadmill that would turn the whole thing into a funnel?
 
@@ -106,10 +106,10 @@ Full speed.
 ## Network
 
 **Related Essays**
+- [[The Philosopher Coach]]
 - [[The Text-Based Ontologist]]
 
 **Concepts To Develop**
-- Philosopher Coach
 - Obsidian Vault as Grimoire
 - Notes Toward a Text-Based Ontology in the Age of Executable Language *(draft exists; link when published)*
 - NLP as the practical arm of text-based ontology *(to write)*
