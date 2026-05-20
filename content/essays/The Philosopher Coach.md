@@ -1,10 +1,10 @@
 ---
-title: The Philosopher Coach
+title: "The Philosopher Coach"
 date: 2026-05-20
 type: essay
 status: published
-focus-keyword: philosopher coach
-meta-description: Practical philosophy for the over-managed life: why the philosopher coach may be a needed figure for people optimised by systems but estranged from the question of how to live.
+focus-keyword: "philosopher coach"
+meta-description: "Practical philosophy for the over-managed life: why the philosopher coach may be a needed figure for people optimised by systems but estranged from the question of how to live."
 tags:
   - philosopher-coach
   - practical-philosophy
@@ -14,6 +14,8 @@ tags:
   - nlp
   - chaos-magick
   - soulcruzer
+draft: false
+slug: the-philosopher-coach
 ---
 
 # The Philosopher Coach
