@@ -96,7 +96,7 @@ The presenting problem is rarely the whole problem. It is the surface ripple of 
 
 That is why the figure of the philosopher coach has started to interest me.
 
-The phrase came during a [[2026-05-20 Wisdom Walk - Boxes and the Philosopher Coach|morning walk]], though the work itself has been approaching for years under other names: narrative alchemy, mythic imagination, coaching, NLP, chaos magick, text-based ontology, the long apprenticeship of trying to understand how a human being becomes trapped inside a story and how, sometimes, the story can be rewritten.
+The phrase came during a [[Wisdom Walk - Boxes and the Philosopher Coach|morning walk]], though the work itself has been approaching for years under other names: narrative alchemy, mythic imagination, coaching, NLP, chaos magick, text-based ontology, the long apprenticeship of trying to understand how a human being becomes trapped inside a story and how, sometimes, the story can be rewritten.
 
 The walk gave me the image.
 
@@ -379,7 +379,7 @@ What many of us need now is help remembering what the self is for.
 ## Network
 
 **Sparked By**
-- [[2026-05-20 Wisdom Walk - Boxes and the Philosopher Coach]]
+- [[Wisdom Walk - Boxes and the Philosopher Coach]]
 
 **Related Essays**
 - [[The Text-Based Ontologist]]
