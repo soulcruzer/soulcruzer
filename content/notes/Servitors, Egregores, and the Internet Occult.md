@@ -19,7 +19,7 @@ related:
   - "[[Text as Universal Substrate]]"
   - "[[The Text-Based Ontologist]]"
   - "[[Notes Toward a Text-Based Ontology in the Age of Executable Language]]"
-  - "[[Narrative Alchemy]]"
+  - "[[What is Narrative Alchemy?]]"
 ---
 
 # Servitors, Egregores, and the Internet Occult
@@ -133,4 +133,4 @@ If symbols already program reality, why not learn to write the code consciously?
 - [[Text as Universal Substrate]]
 - [[The Text-Based Ontologist]]
 - [[Notes Toward a Text-Based Ontology in the Age of Executable Language]]
-- [[Narrative Alchemy]]
+- [[What is Narrative Alchemy?|Narrative Alchemy]]
