@@ -15,9 +15,7 @@ tags:
 draft: false
 ---
 
-After the Rollright Stones, we found the crystal shop.
-
-That matters.
+After the Rollright Stones, we found the crystal shop.23:28
 
 The stones already carry the feeling of a threshold place. Ancient intelligence embedded in landscape. A place where people once walked not only to travel but to mean something.
 
