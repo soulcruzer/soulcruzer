@@ -453,6 +453,10 @@ This syllabus is part of a triptych:
 - [[Philosophy of the Text-Based Ontologist|Philosophy]] — The mythic-poetic foundation; axioms and oath of the ontologist
 - [[Text as Universal Substrate|Essay]] — A 2,400-word exploration of text as the foundational medium of reality construction
 
+Related fragments:
+
+- [[The Next Thing You Begin Has Longevity]] — the Rollright Stones omen and the shift from experiment to long-form life work
+
 ---
 
 *The curriculum trains. The philosophy orients. The essay argues.*
