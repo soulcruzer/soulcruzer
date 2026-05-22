@@ -268,7 +268,7 @@ But because increasingly everything passes through words on its way to becoming 
 - [[the-archive-is-alive]]
 - [[Ontology]]
 - [[The Text Hacker Self-Portrait]]
-- [[Working Notes from the Textual Underground]]
+- [[The Spirit of the Textual Underground|Working Notes from the Textual Underground]]
 - [[Narrative Alchemy]]
 
 **Possible Depth Nodes**
