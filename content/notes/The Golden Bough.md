@@ -1,12 +1,12 @@
 ---
-title: "The Golden Bough"
+title: The Golden Bough
 date: 2026-05-24
 type: Published
 status: Published
 draft: false
 slug: golden-bough
-focus-keyword: "The Golden Bough"
-meta-description: "A note on James George Frazer, the sacred king, sympathetic magic, the dying god pattern, and the question of whether knowing the archetype protects you from it."
+focus-keyword: The Golden Bough
+meta-description: A note on James George Frazer, the sacred king, sympathetic magic, the dying god pattern, and the question of whether knowing the archetype protects you from it.
 tags:
   - golden-bough
   - james-george-frazer
@@ -17,7 +17,7 @@ tags:
   - ritual
   - sacrifice
 related:
-  - "[[Jim Morrison’s Reading List]]"
+  - "[[codex]]"
 ---
 
 # The Golden Bough
@@ -64,4 +64,4 @@ The question the book leaves open, and does not know it is leaving open, is whet
 
 **Related Notes**
 
-- [[Jim Morrison’s Reading List]]
+- [[codex]]
