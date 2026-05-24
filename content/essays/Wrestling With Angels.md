@@ -225,7 +225,7 @@ Just the courage to remain in relationship with the forces larger than ourselves
 ## Network
 
 **Sparked By**
-- [[2026-05-23]] — reading notes on consciousness wrestling with existence under conditions of fragmentation
+- [Spotify the Gnostics, Here's the First Church of David Bowie](https://amzn.to/49m7bw5) by Sean Manseau.
 
 **Related Essays**
 - [[Notes Toward a Text-Based Ontology in the Age of Executable Language]]
