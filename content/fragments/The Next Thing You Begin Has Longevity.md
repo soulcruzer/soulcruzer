@@ -63,6 +63,7 @@ One built from standing thoughts.
 
 **Related essays**
 - [[The Text-Based Ontologist]] — the seed phrase and the larger ontology this omen belongs to
+- [[The Seven Theses]] — thesis seven: the fragment is complete, the book emerges from accumulation
 
 **Sparked by**
 - [[2026-05-22]] — Rollright Stones, geocaching, and the crystal shop after the hike

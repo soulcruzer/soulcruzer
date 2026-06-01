@@ -265,6 +265,7 @@ But because increasingly everything passes through words on its way to becoming 
 - [[Philosophy of the Text-Based Ontologist]]
 - [[I Link Therefore I Cohere]]
 - [[A Dialogue in the Platonic Tradition]] — consciousness, language, and the entanglement of human and machine thought
+- [[On Becoming a Soft Cyborg]] — the merger as a major transition; the self as partially exoskeletal in practice
 - [[the-archive-is-alive]]
 - [[Ontology]]
 - [[The Text Hacker Self-Portrait]]

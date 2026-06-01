@@ -34,6 +34,10 @@ The history of hypertext, then, is not simply the history of computer links. It 
 - [[The Text-Based Ontologist]] — the seed phrase this fragment extends into hypertext and associative knowing
 - [[The Spirit of the Textual Underground]] — the web as home territory for the linked, rhizomatic mind
 - [[Notes Toward a Text-Based Ontology in the Age of Executable Language]] — the broader philosophical frame for text as operating medium
+- [[The Seven Theses]] — thesis six states it flat: hypertext is not a technology, it is an epistemology
+
+**Related fragments**
+- [[Objects Withdraw]] — OOO's flat ontology: objects withdraw from every encounter; meaning lives in the contact, not the text alone
 
 **Related threads**
 - Hypertext thinking

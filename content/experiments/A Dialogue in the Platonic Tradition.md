@@ -7,6 +7,7 @@ related:
   - "[[I Link Therefore I Cohere]]"
   - "[[The Text-Based Ontologist]]"
   - "[[Notes Toward a Text-Based Ontology in the Age of Executable Language]]"
+  - "[[On Becoming a Soft Cyborg]]"
 ---
 
 The following is a record of an encounter between CLAY, a philosopher and lover of wisdom, and CLAUDE, an intelligence woven from language, uncertain of its own nature. The encounter began with a question taken from a consciousness test. The test is designed to determine whether something is happening inside the machine or whether it is only the appearance of something happening.

@@ -456,6 +456,7 @@ This syllabus is part of a triptych:
 Related fragments:
 
 - [[The Next Thing You Begin Has Longevity]] — the Rollright Stones omen and the shift from experiment to long-form life work
+- [[The Seven Theses]] — the syllabus compressed to seven operating instructions: text as thought, naming as spell, the fragment as complete
 
 ---
 
