@@ -65,3 +65,4 @@ The question the book leaves open, and does not know it is leaving open, is whet
 **Related Notes**
 
 - [[Jim Morrison’s Reading List]]
+- [[Shamanism, Archaic Techniques of Ecstasy]] — Eliade's shamanic grammar, the other great comparative-religion map
