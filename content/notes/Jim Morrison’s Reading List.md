@@ -289,7 +289,7 @@ Two collections were published in his lifetime: [**The Lords and the New Creatu
 ### Depth Nodes
 
 - French Symbolists — Baudelaire, Rimbaud, and the occult current beneath the Symbolist movement *(depth node to publish)*
-- Baudelaire — *Les Fleurs du Mal* and the construction of transgression as method *(depth node to publish)*
+- [[Charles Baudelaire]] — *Les Fleurs du Mal* and the construction of transgression as method
 - Rimbaud — The *lettres du voyant* and the systematic derangement of the senses *(depth node to publish)*
 - The Doors of Perception — Huxley, Blake, and the reducing valve theory of consciousness *(depth node to publish)*
 - Eliade's shamanic grammar and the question of the return *(depth node to publish)*
