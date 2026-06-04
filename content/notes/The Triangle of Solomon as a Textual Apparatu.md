@@ -1,9 +1,9 @@
 ---
-title: "The Triangle of Solomon as a Textual Apparatus"
+title: The Triangle of Solomon as a Textual Apparatus
 date: 2026-06-04
 type: note
 status: draft
-draft: true
+draft: false
 tags:
   - occultism
   - ritual-magic
