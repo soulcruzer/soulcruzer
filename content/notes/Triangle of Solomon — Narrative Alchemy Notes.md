@@ -57,3 +57,25 @@ Mapped to existing practice:
 - Daily journal = the circle (protected space the magician stands in)
 - The question brought to the page = the triangle
 - Names are interchangeable by chaos magick logic (Wittgenstein / Hillman / north star seed phrase)
+- The entity in the middle = the essay, the fragment
+- Production pipeline = the circle that protects from being consumed (Capture → Shape → Release)
+
+---
+
+## Closing the Operation
+
+The Solomonic texts are serious about this: close properly. The spirit gets licence to depart. Don't leave the triangle open.
+
+21c equivalent: publication. Fragment goes out. Operation closes. Step back into ordinary time. You don't live inside the evocation. You do the operation and step back out of the circle.
+
+---
+
+## Open Question
+
+What would a 21st century Solomonic operation look like if the triangle were made of words instead of chalk?
+
+---
+
+## Related
+
+- [[Barthes — Death of the Author — Notes on Narrative Alchemy]]
