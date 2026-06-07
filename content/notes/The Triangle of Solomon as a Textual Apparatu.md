@@ -88,4 +88,4 @@ It still asks: what are you calling, what contains it, and how will you know whe
 
 ## Network
 
-- Related: [[Richard Cavendish, The Black Arts — Book Review]], [[narrative alchemy]], [[chaos magick]], [[symbolic thinking]], [[ritual magic]], [[journal as ritual]]
+- Related: [[Richard Cavendish, The Black Arts — Book Review]], [[Narrative Alchemy]], [[Mytho Codex/Maps/Chaos Magick]], [[symbolic thinking]], [[ritual magic]], [[journal as ritual]]

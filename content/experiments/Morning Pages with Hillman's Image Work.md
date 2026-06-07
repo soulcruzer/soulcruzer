@@ -16,7 +16,7 @@ tags:
   - narrative-alchemy
   - active-imagination
 related:
-  - "[[What is Narrative Alchemy?]]"
+  - "[[Notes/notes/What is Narrative Alchemy?]]"
 ---
 
 # Morning Pages with Hillman's Image Work
@@ -128,7 +128,7 @@ This practice trains imaginal perception. You become more fluent in the language
 
 It reveals active narratives before the conscious mind has named them. The images that appear show which archetypal stories are currently organising life.
 
-It builds relationship with inner figures. Characters appear in the morning pages. These are the personified aspects of psyche that [[What is Narrative Alchemy?]] works with directly.
+It builds relationship with inner figures. Characters appear in the morning pages. These are the personified aspects of psyche that [[Notes/notes/What is Narrative Alchemy?]] works with directly.
 
 It creates raw material for sigils, rituals, active imagination sessions, and narrative rewrites.
 
@@ -165,4 +165,4 @@ The morning pages become a daily practice of theoria: seeing what is. Not praxis
 
 ## Network
 
-- [[What is Narrative Alchemy?]]
+- [[Notes/notes/What is Narrative Alchemy?]]

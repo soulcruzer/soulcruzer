@@ -1,12 +1,12 @@
 ---
-title: "Servitors, Egregores, and the Internet Occult"
+title: Servitors, Egregores, and the Internet Occult
 date: 2026-05-21
 type: Published
 status: Published
 draft: false
 slug: servitors-egregores-internet-occult
-focus-keyword: "servitors and egregores"
-meta-description: "A note on chaos magick thought-forms, servitors, egregores, narrative alchemy, AI culture, and the strange way symbols behave like living code on the internet."
+focus-keyword: servitors and egregores
+meta-description: A note on chaos magick thought-forms, servitors, egregores, narrative alchemy, AI culture, and the strange way symbols behave like living code on the internet.
 tags:
   - servitors
   - egregores
@@ -19,7 +19,7 @@ related:
   - "[[Text as Universal Substrate]]"
   - "[[The Text-Based Ontologist]]"
   - "[[Notes Toward a Text-Based Ontology in the Age of Executable Language]]"
-  - "[[What is Narrative Alchemy?]]"
+  - "[[Notes/notes/What is Narrative Alchemy?]]"
 ---
 
 # Servitors, Egregores, and the Internet Occult
@@ -133,4 +133,4 @@ If symbols already program reality, why not learn to write the code consciously?
 - [[Text as Universal Substrate]]
 - [[The Text-Based Ontologist]]
 - [[Notes Toward a Text-Based Ontology in the Age of Executable Language]]
-- [[What is Narrative Alchemy?|Narrative Alchemy]]
+- [[Notes/notes/What is Narrative Alchemy?|Narrative Alchemy]]
