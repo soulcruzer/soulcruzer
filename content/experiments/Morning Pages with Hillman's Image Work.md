@@ -166,3 +166,4 @@ The morning pages become a daily practice of theoria: seeing what is. Not praxis
 ## Network
 
 - [[Notes/notes/What is Narrative Alchemy?]]
+- [[Ritual Ecology]] — morning pages as threshold practice inside a living ecology

@@ -66,3 +66,4 @@ The question the book leaves open, and does not know it is leaving open, is whet
 
 - [[Jim Morrison’s Reading List]]
 - [[Shamanism, Archaic Techniques of Ecstasy]] — Eliade's shamanic grammar, the other great comparative-religion map
+- [[Ritual Ecology]] — ritual as a way of tending vitality rather than optimising output

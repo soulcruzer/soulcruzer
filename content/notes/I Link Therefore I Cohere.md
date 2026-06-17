@@ -120,6 +120,7 @@ The emerging archive says:
 - [[A Dialogue in the Platonic Tradition]] — the entanglement of self and other; consciousness tested at the edge
 - [[On Becoming a Soft Cyborg]] — the merger as a major transition; the archive as one of the organs we happened to grow late
 - [[The Seven Theses]] — thesis four: the archive is the self, the pattern that persists in everything you've touched
+- [[Ritual Ecology]] — the archive as habitat rather than productivity machinery
 
 **Possible Depth Nodes**
 - [[The Notebook as Existential Laboratory]] *(depth node to write)*
