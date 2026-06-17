@@ -18,7 +18,7 @@ There are inputs. There are outputs. There are bottlenecks. There are contexts, 
 
 I understand the appeal. A system promises mercy. It says the chaos can be held. The loose ends can be gathered. The future can be made less threatening if every task has a bucket and every bucket has a review date.
 
-But something in me resists the word productivity now. Not because making things does not matter. Making things matters enormously. The blog post, the walk, the note, the call, the invoice, the meal, the practice, the book half-read beside the chair. These are how a life takes shape.
+But something in me resists the word 'productivity' now. Not because making things does not matter. Making things matters enormously. The blog post, the walk, the note, the call, the invoice, the meal, the practice, the book half-read beside the chair. These are how a life takes shape.
 
 The problem is that productivity systems tend to treat the living field as if it were a warehouse.
 
