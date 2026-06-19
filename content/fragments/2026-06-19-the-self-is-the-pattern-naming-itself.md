@@ -1,7 +1,7 @@
 ---
 title: The Self Is the Pattern Naming Itself
 date: 2026-06-19
-status: draft
+status: published
 type: fragment
 tags:
   - fragments
